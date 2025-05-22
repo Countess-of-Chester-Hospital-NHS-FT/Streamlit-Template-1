@@ -2,23 +2,19 @@
 # Streamlit Training
 
 ### Status
-This project is for training purposes
+This template is for use with DES apps
 
 ### About the project
-Contains 3 examples of streamlit web apps, a one page app, a multipage app and a simulation app.
+Contains a basic DES app example
 
 Note: Only public or simulated data are shared in this repository
 
 ### Project Structure
 
-There is one folder for each streamlit app
+* app - contains all app pages
 
-* basic - shows how to run a basic single page website
-* basic multipage - shows how to arrange content into multiple pages
-* simulation - takes the model from SimPy-1 and makes it into an app
-
-In order to run each app, in the terminal move into the relevant folder (using cd foldername)
-and use `streamlit run filename` (where filename is the page you want to run).
+In order to run the app, in the terminal move into the app (using cd app)
+and use `streamlit run launch.py` (where filename is the page you want to run).
 
 ### Built with
 Captured in environment.yml
