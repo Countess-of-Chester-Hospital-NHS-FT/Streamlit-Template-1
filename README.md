@@ -1,5 +1,5 @@
 
-# Streamlit Training
+# Streamlit Template 1
 
 ### Status
 This template is for use with DES apps
